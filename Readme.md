@@ -9,7 +9,7 @@ Pygame  includes computer graphics and sound libraries that are designed to be e
 - Download the Code.
 - Install pygame 2.1.2<br>
   `$ pip install pygame 2.1.2`
-- Run the chessMain in your preferred code editor.
+- Run the [chessMain](https://github.com/Debopom-Banerjee/Chess-Engine-using-Python/blob/main/Chess/chessMain.py) in your preferred code editor.
   <br><br>
 
 ## Made with Love by :
