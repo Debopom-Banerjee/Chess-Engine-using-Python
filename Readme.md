@@ -12,9 +12,13 @@ Pygame  includes computer graphics and sound libraries that are designed to be e
 - Run the chessMain in your preferred code editor.
   <br><br>
 
-## Made with Love by
+## Made with Love by :
 
 **Debopom Banerjee**<br>
 [![Linkedin:Debopom](https://img.shields.io/badge/-Debopom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debopom-banerjee-a35123215/)](https://www.linkedin.com/in/debopom-banerjee-a35123215/)
 <br>
-**Reach out to us with any queries/suggestions or just say us a hi 💌**
+<br>
+**Reach out to me with any queries/suggestions or just say us a hi 💌**
+<br>
+## Here's the UI :
+![image](https://user-images.githubusercontent.com/94488557/213255589-8c249ebc-ed8d-4989-afdf-23e2e8e5f001.png)
