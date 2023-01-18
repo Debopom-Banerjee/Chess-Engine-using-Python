@@ -1,11 +1,13 @@
 # Chess Engine using Python
 
-This repository is about a Chess Engine using PyGame, a set of Python modules designed for writing video games<br><br>
+This repository is about a Chess Engine using PyGame, a set of Python modules designed for writing video games<br>
+
+Pygame  includes computer graphics and sound libraries that are designed to be easy to use with Python. Pygame is built on top of the SDL library, which stands for Simple DirectMedia Layer, and is a cross-platform library for low-level access to audio, keyboard, mouse, and display functions. Pygame is commonly used for creating 2D games, but can also be used for creating 3D games and other interactive applications.<br>
 
 #### To view your result as expected , Follow this steps :
 
 - Download the Code.
-- Install pygame 2.1.2
+- Install pygame 2.1.2<br>
   `$ pip install pygame 2.1.2`
 - Run the chessMain in your preferred code editor.
   <br><br>
